@@ -31,12 +31,13 @@ You can get the script running in the following way:
 5. To start Provisioning 
     ```
     run vagrant provision
+
     ```
-5. To view the frontend on your browser
+6. To view the frontend on your browser
     ```
     Open http://localhost:9000
     ```
-5. To view the backend on your browser
+7. To view the backend on your browser
     ```
     Open http://localhost:5000
     ```
