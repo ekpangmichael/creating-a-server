@@ -1,4 +1,4 @@
-## Provisioning multiple VM's on vagrant to run both frontend and backend 
+## Provisioning multiple VM's with Vagrant
 
 ## About
 This project provision multiple VM's using Vagrant, virtualbox and bash script, please install the Dependencies below
