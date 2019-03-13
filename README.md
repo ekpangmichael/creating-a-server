@@ -19,24 +19,25 @@ You can get the script running in the following way:
 2. Clone the repository and cd into it
    
 	  ```
-    git clone https://github.com/ekpangmichael/automate-deployment.git
-    cd automate-deployment
+    git clone https://github.com/ekpangmichael/creating-a-server.git
+    cd into creating-a-server folder
     ```
 3. Launch your virtualbox software
 
-4. Start vagrant run
+4. Start vagrant 
     ```
-    vagrant up
+    run vagrant up
     ```
-5. To start Provisioning run
+5. To start Provisioning 
     ```
-    vagrant provision
+    run vagrant provision
+
     ```
-5. To view the frontend on your browser
+6. To view the frontend on your browser
     ```
     Open http://localhost:9000
     ```
-5. To view the backend on your browser
+7. To view the backend on your browser
     ```
     Open http://localhost:5000
     ```
