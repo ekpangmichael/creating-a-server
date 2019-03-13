@@ -5,4 +5,4 @@ echo "Installing core things"
 apt-get update
 # Install build tools
 # apt-get install -y make g++ git curl vim libcairo2-dev libav-tools nfs-common portmap
-apt-get install -y make git curl nfs-common build-essential
+s
